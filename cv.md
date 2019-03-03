@@ -22,5 +22,7 @@ All experience on the above mentioned skills i got during studying at BSUIR whil
 BSUIR, Economics and Engineering Faculty(*2016-2020*)
 # 8.   English level #
  Intermediate (*B2*) English in high-school based on "Round-up" and "Enterprise 4" books;
- ***
+ 
+ ---
+ 
  3-month spoken English courses at "Lёrn Club" in Minsk (*Intermediate*)
