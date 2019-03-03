@@ -1,3 +1,1 @@
-"# rsschool-2019Q1-html-css" 
-"# rsschool-2019Q1-html-css" 
-"# rsschool-2019Q1-cv" 
+https://kingart4444.github.io/rsschool-2019Q1-cv/cv
