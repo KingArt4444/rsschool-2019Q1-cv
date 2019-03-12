@@ -1,3 +1,7 @@
+body{
+  background-color: #FEFDC2;
+}
+
 .main{
   max-width: 1024px;
   margin: 0 auto;
@@ -14,4 +18,8 @@
   padding-bottom: 1px;
   background-color: #9b9b9b;
   border-bottom:1px solid #F4F4F4;
+}
+
+p, li{
+  font-family: 'Srisakdi', cursive;
 }
