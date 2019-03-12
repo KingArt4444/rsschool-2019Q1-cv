@@ -1,11 +1,11 @@
 .main{
-    max-width: 1024px;
-    margin: 0 auto;
-    position: relative;
+  max-width: 1024px;
+  margin: 0 auto;
+  position: relative;
 }
 
 .photo{
-    position: absolute;
-   margin: 0 auto; 
-    left:50%;
+  position: absolute;
+  margin: 0 auto; 
+  left:50%;
 }
