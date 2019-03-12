@@ -9,3 +9,9 @@
   margin: 0 auto; 
   left:50%;
 }
+
+.line{
+  padding-bottom: 1px;
+  background-color: #9b9b9b;
+  border-bottom:1px solid #F4F4F4;
+}
